@@ -63,14 +63,14 @@
 					'pipl_ob_1_4': 'Graduated from the Saratov State Academy of Law with Bachelor and Master degrees in law. Awarded a diploma of business translator by the Saratov State Academy of Law. First learned about digital currencies and blockchain in summer 2016; since then, pursues various ventures in this sphere, including Ethereum mining. ',
 					'pipl_ob_1_5': 'After a long period of intense study of the cryptocurrency industry, came up with the idea of BitCourse. One of the creators of the platform.',
 					'pipl_ob_1_6': '',
-					
-					'pipl_naim2': 'Viktor Sulikovsky',
-					'pipl_ob_2_1': 'Graphic designer and art director;',
-					'pipl_ob_2_2': 'Graduated from an art school;',
-					'pipl_ob_2_3': 'Started working in design at the age of 13;',
-					'pipl_ob_2_4': 'Worked for a U.S. startup developing games and websites;',
-					'pipl_ob_2_5': 'Raised funds through the Kickstarter crowdfunding platform;',
-					'pipl_ob_2_6': 'Created over 15 websites last year.',
+
+                    'pipl_naim2': 'Viktor Sulikovsky',
+                    'pipl_ob_2_1': 'Victor holds the position of Art Director of the company. Responsible for the style and drawing of the project: starting from the logo and ending with UI elements of the platform. He has extensive experience and knowledge in various spheres of web design, animation, game-design, printing, outdoor advertising, 3D modeling, UX and UI development.',
+                    'pipl_ob_2_2': 'He has already had successful projects, in spite of his young age. Excellent knowledge of Adobe products and such programs as Spine, Unity3D, Cinema 4D allows him to successfully compete on the market for design services.',
+                    'pipl_ob_2_3': 'In his opinion, design plays key role in any work, and the way the product is presented entirely depends on the designer, because a person, first and foremost, looks at from the outside, and only then on what is inside.',
+                    'pipl_ob_2_4': '',
+                    'pipl_ob_2_5': '',
+                    'pipl_ob_2_6': '',
 
 					'pipl_naim3': 'Avetik Kartashian',
 					'pipl_ob_3_1': 'Responsible for the technical background and fine-tuning of the platform. One of the creators and partners of BitCourse. Over 5 years of software development experience. Began his career as a Java developer.',
@@ -80,13 +80,14 @@
 					'pipl_ob_3_5': '',
 					'pipl_ob_3_6': '',
 
-					'pipl_naim4': 'Илья Лужецкий',
-					'pipl_ob_4_1': 'Занялся разработкой веб-проектов еще в школьные годы.',
-					'pipl_ob_4_2': 'Со временем собрал команду разрабочиков и дизайнеров с которыми вместе делали множество проектов.',
-					'pipl_ob_4_3': 'Учавствовал в разработки крупных проектов для таких компаний как ОАО «Фармстандарт», Неделя моды в Москве, МТС и другие.',
-					'pipl_ob_4_4': 'Любимая фраза "Сейчас мало уметь только программировать"',
-					'pipl_ob_4_5': '',
-					'pipl_ob_4_6': '',
+                    'pipl_naim4': 'Ilya Luzhetsky',
+                    'pipl_ob_4_1': 'Ilya is a front-end developer on our team. He has more than 3 years experience in the sphere of web development.',
+                    'pipl_ob_4_2': 'Always looking for non-standard and best possible solutions in his work. Participated in collaboration with such companies as MTS, Fashion Week in Moscow and others. Developed client services for JSC "Pharmstandard", Flei. Monitors new developments. Has experience in developing on Angular, React, Backbone, Node.js. Well versed in cross-browser and cross-platform development, in the principles of SEO-optimization, adaptive and responsive design.',
+                    'pipl_ob_4_3': 'Favorite phrase: "Now it is not enough only to be able to program."',
+                    'pipl_ob_4_4': '',
+                    'pipl_ob_4_5': '',
+                    'pipl_ob_4_6': '',
+					
 
 					'pipl_naim5': 'Filipp Reder',
 					'pipl_ob_5_1': 'Business consultant. MBA degree. Graduated from the Russian State Financial Academy.',
@@ -96,33 +97,29 @@
 					'pipl_ob_5_5': '',
 					'pipl_ob_5_6': '',
 
-					'pipl_naim6': 'Evgeny Kholopov',
-					'pipl_ob_6_1': 'Over 20 years of experience in the legal sphere. 15 years of experience as an investigator for the Russian State Investigation Department of the Kaluga region. Practicing lawyer (registry number 40/608, ID number 649).',
-					'pipl_ob_6_2': 'Provided legal services to over 100 businesses. Successfully defended his clients’ interests in over 200 court cases.',
-					'pipl_ob_6_3': '',
-					'pipl_ob_6_4': '',
-					'pipl_ob_6_5': '',
-					'pipl_ob_6_6': '',
+                    'pipl_naim6': 'Evgeny Kholopov',
+                    'pipl_ob_6_1': 'Evgeny is a CLO of the BitCourse. He has a long history of registration, reorganization, liquidation, bankruptcies of legal entities and entrepreneurs. General experience in the field of jurisprudence - more than 20 years. Defended the entrepreneurs’ interests in concluding deals with customers and suppliers. During his law practice, he was engaged in legal accompaniment of the firm\'s performance. During the accompaniment, he registered patents, inventions, trademarks for IT companies. Consulted the business on issues of concern in the sphere of rights to the results of intellectual activity. ',
+                    'pipl_ob_6_2': 'Believes in BitCourse and hopes that the company will be able to realize its potential and will create a platform convenient for training and counseling. Plans to provide consulting services with the help of a platform. As head of the legal department, he deals with the protection and representation of interests in the legal sphere at the private, state and international levels.',
+                    'pipl_ob_6_3': '',
+                    'pipl_ob_6_4': '',
+                    'pipl_ob_6_5': '',
+                    'pipl_ob_6_6': '',
 
 					'pipl_naim7': 'Илья Досаев',
-					'pipl_ob_7_1': 'Интернет-Маркетолог,  4 года практики.  За 3800 руб привлек заявок на 200 млн руб за 5 дней',
-					'pipl_ob_7_2': 'Работал с крупными брендами РФ, постоянно обучается Американским маркетинговым технологиям',
-					'pipl_ob_7_3': '',
-					'pipl_ob_7_4': '',
-					'pipl_ob_7_5': '',
-					'pipl_ob_7_6': '',
 
-					'pipl_naim8': 'Эдвард Ирицян',
-					'pipl_ob_8_1': 'Эдвард - digital-маркетинг эксперт в Bitcourse. В консалтинге и марткетинге с 2012 года. Основные его направления - это выстраивание системы маркетинга "с нуля", разработка и реализация PR-стратегии компании, работа с социальными медиа (SMM), а также, остальные составляющие. Как он всегда говорит и показывает в своей работе, "Весь процесс работы над любым проектом/бизнесом, направлен на то, чтобы в последующем все системы, предприятия были настроены так, чтобы процесс роста был постоянен, с минимальными корректировками."',
-					'pipl_ob_8_2': 'Пройденные курсы Эдварда, которые оказали на него большое влияние, профессиональный рост и помогли изменить шаблонный взгляд , это курсы Игоря Ледоховского, Патрика Валтена, Вадима Мальчикова, Фрэнка Керна, Вадима Трапезникова.',
-					'pipl_ob_8_3': 'Со временем знания постепенно накапливались, также на практике использовались новые, приобретенные. Поначалу, применялись они в малом семейном бизнесе, а после получения опыта и лучшего понимания самого маркетинга, рынка, PR процессов, его деятельность перешла в ведение консалтинга в сферах: салоны красоты, тренажерные залы, интернет магазины, в последующем создание с нуля бренда барбершоп.',
-					'pipl_ob_8_4': 'На данный момент он состоит в нашей команде BitCourse и полностью погружен в работу над процессами бизнес консалтинга.',
-					'pipl_ob_8_5': '',
-					'pipl_ob_8_6': '',
+
+                    'pipl_naim8': 'Edward Iritsyan',
+                    'pipl_ob_8_1': 'Edward is a digital-marketing expert of Bitcourse. He has worked in the sphere of consulting and marketing since 2012. The fundamental elements of his activity are building the marketing system from scratch, developing and implementing the company\'s PR strategies, working with social media (SMM), and other elements of business processes, intended for effectively building and developing company. According to Edward, "The whole process of working on any project / business is aimed at ensuring that in the future all systems of the company are configured in such a way that the growth process is permanent, with minimal adjustments.',
+                    'pipl_ob_8_2': 'For those who are interested in consulting we have added courses Edward has completed, which had a great influence on him, on professional growth and helped him to change the stereotypes. These are the courses of Igor Ledochovsky, Patrick Valten, Vadim Malchikov, Frank Kern, Vadim Trapeznikov. The courses have contributed to the accumulation of not only theoretical knowledge, but also practical experience. Initially, he employed the skills and knowledge in small family business, but after gaining experience and better understanding of marketing, PR processes his work duties changed. He started to do work in the sphere of consulting: beauty salons, gyms, online stores, and later the creation of brand barbershop from scratch.',
+                    'pipl_ob_8_3': 'At the moment he is in our team of BitCourse, moreover, he is fully immersed into work on business consulting processes.',
+                    'pipl_ob_8_4': '',
+                    'pipl_ob_8_5': '',
+                    'pipl_ob_8_6': '',
+					
 
 					'pipl_vac': 'Send your CV and became the part of BitCourse',
 
-					'road': 'ROADMEP',
+					'road': 'ROADMAP',
 
 					'teacher_zag_1': 'Just imagine',
 					'teacher_zag_2': 'What your teachers and mentors are the best world experts!',
@@ -141,52 +138,52 @@
 					'menu3': 'Преимущества',
 					'menu4': 'DEMO',
 					'menu5': 'White paper',
-					
-					'header1_1': "FIRST",
-					'header1_2': "IN",
-					'header1_3': "THE WORLD",
-					'header2': 'decentralized platform built',
-					'header3': 'on the blockbuster of the Etherium',
+
+                    'header1_1': "FIRST",
+                    'header1_2': "IN",
+                    'header1_3': "THE WORLD",
+                    'header2': 'Ethereum blockchain based',
+                    'header3': 'personal  teaching and consulting platform',
 					'header3_timer': 'PRE-ICO начнётся:',
 					
 					'statistics': 'Статистика',
 					'statistics1': 'Готовы отдать любую сумму за инсайдерскую информацию или уникальные знания',
 					'statistics2': 'Человек является целевой аудиторией BitCourse',
 					'statistics3': 'Теневой оборот репетиторства в мире',
-					'statistics4': 'От ВВП расходы каждого государства на образование своей страны',
-					'statistics5': 'Ни одной децентрализованной платформы для предоставления обучения и консультирования',
+					'statistics4': 'расходы одного из государств на образование своей страны',
+					'statistics5': 'Ни одной платформы для предоставления обучения и консультирования',
 					
 					'blo3_a': 'Читать дальше',
 					'blo3_1': 'Образование и консультация',
-					'blo3_1_1': 'Образование и консультирование динамически развивающийся сектор услуг. С каждым днём рынку необходимы новые квалифицированные специалисты   в новых и старых отраслях деятельности. ',
+					'blo3_1_1': 'Образовательные и консалтинговые услуги представляют собой динамичный рынок: спрос на квалифицированных специалистов постоянно растет с каждым днем как в новых, так и в традиционных секторах экономики.',
 					'blo3_1_pop': 'Образование и консультация',
-					'blo3_1_pop_1': 'Образование и консультирование динамически развивающийся сектор услуг. С каждым днём рынку необходимы новые квалифицированные специалисты в новых и старых отраслях деятельности.',
-					'blo3_1_pop_2': 'Также необходимы специалисты, которые умеют передавать весь свой опыт и знания, обучая как можно больше специалистов. Отличительной особенностью образования и консультирования является её персональный характер. Когда мы думаем о консультанте или о преподаватели, мы вспоминаем конкретного человека, а не бизнес-организацию или компанию. Не каждый заявленный преподаватель или консультант – специалист.',
+					'blo3_1_pop_1': 'Образование и консультирование- динамически развивающийся сектор услуг. С каждым днём рынку необходимы новые квалифицированные специалисты в новых и старых отраслях деятельности. ',
+					'blo3_1_pop_2': 'Также необходимы специалисты, которые умеют передавать весь свой опыт и знания, обучая как можно больше специалистов. Отличительной особенностью образования и консультирования является её персональный характер. Когда мы думаем о консультанте или о преподавателе, мы вспоминаем конкретного человека, а не бизнес-организацию или компанию. Не каждый заявленный преподаватель или консультант – специалист.',
 					'blo3_1_pop_3': 'Вопрос получения новой и полезной информации остро стоит перед каждым человеком, который хочет обогатить свой опыт, навыки и умения, но также и стоит вопрос: как же найти нужного специалиста и довериться ему?',
 					'blo3_2': 'Проблема',
-					'blo3_2_1': 'При потребности получить необходимые знания или образования, мы ищем профессионалов в своей области. Найти настоящего специалиста  без  помощи сложно. Мы встречаем людей, в которых не уверены, иногда подозреваем, что перед нами мошенник.',
+					'blo3_2_1': 'При потребности получить необходимые знания или образование, мы ищем профессионалов в своей области. Найти настоящего профессионала без отзыва знакомых достаточно сложно. Без отзывов или рекомендаций мы встречаем специалистов, в которых не уверены достаточно сильно. Доля сомнения, что перед нами мошенник, мешает нам оплатить консультацию на большую сумму, тем более онлайн.',
 					'blo3_2_pop': 'Проблема',
-					'blo3_2_pop_1': 'Находить настоящих специалистов, профессионалов своей сферы, довольно трудно. Можно обратиться к знакомым, попросив посоветовать знакомого толкового специалиста, или использовать любой другой метод, который популярно применяется в оффлайн мире. Вы также можете найти онлайн интернет-ресурсы предоставляющие вам возможность получить консультацию или обучение онлайн.',
-					'blo3_2_pop_2': 'Разумеется, на платной основе. Но как правило эти сервисы работают на предоплатном порядке расчёта. Готовы ли платить специалисту, который вам неизвестен? Что если специалист потребует оплату в размере более 1000$? Сомнения появятся у любого даже при цене 100$. Централизованные системы не смогут сделать процесс обучения и оплаты таким же прозрачным, как децентрализованная.',
+					'blo3_2_pop_1': 'Находить настоящих специалистов, профессионалов своей сферы довольно трудно. Можно обратиться к знакомым, попросив посоветовать толкового специалиста, или использовать любой другой метод, который популярно применяется в оффлайн мире. Вы также можете найти онлайн интернет-ресурсы. предоставляющие вам возможность получить консультацию или обучение онлайн.',
+					'blo3_2_pop_2': 'Разумеется, на платной основе. Но как правило эти сервисы работают на предоплатном порядке расчёта. Готовы ли вы платить специалисту, который вам неизвестен? Что если специалист потребует оплату в размере более 1000$? Сомнения появятся у любого даже при цене 100$. Централизованные системы не смогут сделать процесс обучения и оплаты таким же прозрачным, как децентрализованная.',
 					'blo3_2_pop_3': '',
 					'blo3_3': 'Решение от BitCourse',
-					'blo3_3_1': 'В BitCourse мы придумали как решить эти проблемы, и кроме всего прочего сделать удобную платформу для проведения обучения различных типов - начиная личной консультации и заканчивая всевозможными вебинарами.',
+					'blo3_3_1': 'В BitCourse мы придумали как решить эти проблемы, и кроме всего прочего сделать удобную платформу для проведения обучения различных типов, начиная от личной консультации и заканчивая вебинарами. Наши смарт-контракты сохранят ваши деньги, пока вы не дадите сигнал платформе, что получили необходимую для вас информацию. В случае конфликта на платформе - его разрешат независимые судьи, выбранные самой платформой.',
 					'blo3_3_pop': 'Решение от BitCourse',
-					'blo3_3_pop_1': 'В BitCourse мы придумали как решить эти проблемы, и кроме всего прочего сделать удобную платформу для проведения обучения различных типов - начиная личной консультации и заканчивая всевозможными вебинарами. Наши смарт-контракты хранят ваши деньги, до тех пор, пока вы не дадите сигнал платформе, что получили необходимую для вас информацию. Возникшие конфликты на платформе решат независимые судьи выбранные специальным алгоритмом.',
-					'blo3_3_pop_2': 'Блокчейн и передовые технологии разработки защищают интересы и Заказчика, и Исполнителя, оставляя в центре внимания только акцент на обучения и его качество, избавляя пользователей от лишних хлопот.',
+					'blo3_3_pop_1': 'В BitCourse мы придумали как решить эти проблемы, и кроме всего прочего сделать удобную платформу для проведения обучения различных типов, начиная от личной консультации и заканчивая вебинарами. Наши смарт-контракты сохранят ваши деньги, пока вы не дадите сигнал платформе, что получили необходимую для вас информацию. В случае конфликта на платформе - его разрешат независимые судьи, выбранные самой платформой.',
+					'blo3_3_pop_2': 'Блокчейн и передовые технологии разработки  защищают интересы и Заказчика и Исполнителя, оставляя в центре внимания только обучение и его качество, избавляя пользователей от лишних хлопот.',
 					'blo3_3_pop_3': '',
 					
 					'blo5': 'Преимущества',
 					'blo5_1': 'Открытость',
-					'blo5_11': 'Прозрачность транзакций является общим плюсом всей технологии блокчейн и криптовалюты.  Вы можете видеть судьбу своей транзакции - на какой кошелёк поступили отправленная вами криптовалюта. Прозрачность тесно связано с защитой и безопасностью транзакций, поскольку на неё никто не может повлиять.',
+					'blo5_11': 'Прозрачность транзакций является общим плюсом всей технологии блокчейн и криптовалюты. Вы можете видеть судьбу своей транзакции - на какой кошелёк поступила отправленная вами криптовалюта. Прозрачность тесно связана с защитой и безопасностью транзакций, поскольку на неё никто не может повлиять.',
 					'blo5_2': 'Низкие комиссии',
 					'blo5_22': 'До тех пор, пока ученик не подтвердит, что обучение или консультация была оказана, наши смарт-контракты будут хранить оплату за обучение. После подтверждения, мы гарантированно, моментально переведём консультанту его вознаграждение. За это мы взимаем минимальную комиссию от 0.1% от суммы оплаты. Экономьте на комиссии – не скупитесь на своё образование.',
 					'blo5_3': 'Демократичность',
-					'blo5_33': 'Платформа построенная на автономность, саморегуляцию и демократичность. Само сообщество BitCourse будет защищать свои интересы внутри платформы. Конфликты внутри платформы будут разрешаться путём голосования независимым народным судейством.',
+					'blo5_33': 'Платформа построенная на автономности, саморегуляции и демократичности. Само сообщество BitCourse будет защищать свои интересы внутри платформы. Конфликты внутри платформы будут разрешаться путём голосования независимым народным судейством.',
 					'blo5_4': 'Защищенность',
 					'blo5_44': 'Все транзакции внутри платформы будут работать на написанными нашими разработчиками смарт-контрактами и блокчейн-технологии. На данный момент, эти условия дают максимальную защиту при совершении сделки в 21 веке.',
 					'blo5_5': 'Надежность',
-					'blo5_55': 'Консультанты и преподаватели будут обязаны разместить информацию о наличии у себя специального образования необходимого для обучения и консультации. Также, все обучения будут записаны в блокчейн и тогда вы сможете самостоятельно найти для себя необходимого специалиста.',
+					'blo5_55': 'Консультанты и преподаватели будут обязаны разместить информацию о наличии у себя специального образования необходимого для обучения и консультации. Также, все программы обучения будут записаны в блокчейн и тогда вы сможете самостоятельно найти для себя необходимого специалиста.',
 					'blo5_6': 'Интернациональность',
 					'blo5_66': 'Многим не требуется переводчик, чтобы понять обучение или консультацию на иностранном языке. Однако, мы предоставим эту возможность. Вы можете объединиться с другом и заказать для себя переводчика. Тогда вы сможете комфортно и полноценно получить новые знания на родном языке.',
 					
@@ -200,9 +197,9 @@
 					'pipl_ob_1_5': 'Также имеет квалификацию «переводчика в сфере профессиональной коммуникации», которую получил в ФГБОУ ВПО «СГЮА».',
 					'pipl_ob_1_6': 'О криптовалюте и технологии блокчейн узнал летом 2016г. С того времени интенсивно развивался, начиная с майнинга эфириума. В результате изучения крипто индустрии, придумал идею, которая легла в основу создания платформы BitCourse. Является одним из основателей платформы.',
 					'pipl_naim2': 'Виктор Суликовский',
-					'pipl_ob_2_1': 'Графический дизайнер, арт директор, полное высшее образование по специальности HR менеджмент, окончил художественную школу. Творческую профессию начал с 13 лет, опыт работы в Американском стартапе по разработке сайтов и игр.  Опыт выхода на краундфандинuовой площадки Kickstarter. За последний год сделано для продажи более 15 веб сайтов для продажи.',
-					'pipl_ob_2_2': '',
-					'pipl_ob_2_3': '',
+					'pipl_ob_2_1': 'Виктор - занимает должность Арт-директора компании. Отвечает за стиль и графику проекта - начиная логотипом и заканчивая UI элементами платформы. Имеет большой опыт работы и знания в различных сферах web-дизайна, анимации, game-дизайна, полиграфии, наружной рекламы, 3D моделирования, UX и UI разработки.',
+					'pipl_ob_2_2': 'Несмотря на свой молодой возраст, на его счету уже есть состоявшиеся проекты. Превосходное знание продуктов Adobe и таких программ как Spine, Unity3D, Cinema 4D позволяет успешно конкурировать на рынке дизайн услуг.',
+					'pipl_ob_2_3': 'По его мнению дизайн играет ключевую роль в любой работе, и то как преподносится продукт, зависит полностью от дизайнера, потому что человек, в первую очередь, смотрит на внешность, а потом лишь  на то, что находится внутри.',
 					'pipl_ob_2_4': '',
 					'pipl_ob_2_5': '',
 					'pipl_ob_2_6': '',
@@ -232,8 +229,8 @@
 					'pipl_ob_5_6': '',
 
 					'pipl_naim6': 'Евгений Холопов',
-					'pipl_ob_6_1': 'Опыт работы в сфере юриспруденции более 20 лет. 15 лет работал следователем в Следственном отделе Российской Федерации по Калужской области. В настоящее время является адвокатом Реестровый номер: 40/608; Номер удостоверения: 649;',
-					'pipl_ob_6_2': 'Консультировал в ходе своей практики более 100 компаний, успешно защитил интересы своих клиентов более чем в 200 делах.',
+					'pipl_ob_6_1': 'Евгений - ведущий юрист BitCourse. Имеет богатую историю регистрации, реорганизации, ликвидации, банкротств юридических лиц и предпринимателей. Общий опыт в сфере юриспруденции - более 20 лет. Защищал интересы предпринимателей при заключении сделок с заказчиками и поставщиками. В ходе своей адвокатской практики занимался юридическим сопровождением деятельности фирм. В ходе сопровождения регистрировал патенты, изобретения, товарные знаки для айти компаний. Консультировал бизнес по проблемным вопросам в сфере прав на результаты интеллектуальной деятельности.',
+					'pipl_ob_6_2': 'Верит в BitCourse и надеется, что компания сможет реализовать свой потенциал и создаст платформу удобную для обучения и консультирования. Планирует оказывать консалтинговые услуги через платформу. В качестве руководителя юридического отдела занимается вопросами охраны и представления интересов в правовой сфере на частном, государственном и международном уровне.',
 					'pipl_ob_6_3': '',
 					'pipl_ob_6_4': '',
 					'pipl_ob_6_5': '',
@@ -246,12 +243,11 @@
 					'pipl_ob_7_4': '',
 					'pipl_ob_7_5': '',
 					'pipl_ob_7_6': '',
-
                     'pipl_naim8': 'Эдвард Ирицян',
-                    'pipl_ob_8_1': 'Эдвард - digital-маркетинг эксперт в Bitcourse. В консалтинге и марткетинге с 2012 года. Основные его направления - это выстраивание системы маркетинга "с нуля", разработка и реализация PR-стратегии компании, работа с социальными медиа (SMM), а также, остальные составляющие. Как он всегда говорит и показывает в своей работе, "Весь процесс работы над любым проектом/бизнесом, направлен на то, чтобы в последующем все системы, предприятия были настроены так, чтобы процесс роста был постоянен, с минимальными корректировками."',
-                    'pipl_ob_8_2': 'Пройденные курсы Эдварда, которые оказали на него большое влияние, профессиональный рост и помогли изменить шаблонный взгляд , это курсы Игоря Ледоховского, Патрика Валтена, Вадима Мальчикова, Фрэнка Керна, Вадима Трапезникова.',
-                    'pipl_ob_8_3': 'Со временем знания постепенно накапливались, также на практике использовались новые, приобретенные. Поначалу, применялись они в малом семейном бизнесе, а после получения опыта и лучшего понимания самого маркетинга, рынка, PR процессов, его деятельность перешла в ведение консалтинга в сферах: салоны красоты, тренажерные залы, интернет магазины, в последующем создание с нуля бренда барбершоп.',
-                    'pipl_ob_8_4': 'На данный момент он состоит в нашей команде BitCourse и полностью погружен в работу над процессами бизнес консалтинга.',
+                    'pipl_ob_8_1': 'Эдвард - digital-маркетинг эксперт в Bitcourse. В консалтинге Эдвард с 2012 года. Основные направления, которыми он занимается, это выстраивание системы маркетинга "с нуля", разработка и реализация PR-стратегии компании, работа с социальными медиа (SMM), а также остальные составляющие бизнес процессов, предназначенные для эффективного построения и развития компании. По словам Эдварда,"весь процесс работы над любым проектом/бизнесом, направлен на то, чтобы в последующем все системы предприятия были настроены так, чтобы процесс роста был постоянен, с минимальными корректировками".',
+                    'pipl_ob_8_2': 'Для тех, кому интересен консалтинг, мы добавили пройденные курсы Эдварда, которые оказали большое влияние на его профессиональный рост и помогли изменить шаблонный взгляд. Это курсы Игоря Ледоховского, Патрика Валтена, Вадима Мальчикова, Фрэнка Керна, Вадима Трапезникова. Курсы способствовали накоплению не только теоретических знаний, но и практического опыта. По-началу применялись они в малом семейном бизнесе, а после получения опыта и более глубокого освоения самого маркетинга, рынка и PR-процессов его деятельность перешла в ведение консалтинга в сферах салонов красоты, тренажерных залов, интернет-магазинов, а в последующем и создания с нуля бренда барбершоп.',
+                    'pipl_ob_8_3': 'На данный момент он состоит в нашей команде BitCoure и полностью погружен в работу над процессами бизнес консалтинга.',
+                    'pipl_ob_8_4': '',
                     'pipl_ob_8_5': '',
                     'pipl_ob_8_6': '',
 
@@ -277,12 +273,12 @@
 					'menu3': 'Benefits',
 					'menu4': 'DEMO',
 					'menu5': 'White paper',
-					
-					'header1_1': "FIRST",
-					'header1_2': "IN",
-					'header1_3': "THE WORLD",
-					'header2': 'decentralized platform built',
-					'header3': 'on the blockbuster of the Etherium',
+
+                    'header1_1': "FIRST",
+                    'header1_2': "IN",
+                    'header1_3': "THE WORLD",
+                    'header2': 'Ethereum blockchain based',
+                    'header3': 'personal  teaching and consulting platform',
 					
 					'statistics': 'Statistics',
 					'statistics1': 'Are ready to give any amoint for insider information or uunique knowledgr',
@@ -334,12 +330,12 @@
 					'pipl_ob_1_6': '',
 					
 					'pipl_naim2': 'Viktor Sulikovsky',
-					'pipl_ob_2_1': 'Graphic designer and art director;',
-					'pipl_ob_2_2': 'Graduated from an art school;',
-					'pipl_ob_2_3': 'Started working in design at the age of 13;',
-					'pipl_ob_2_4': 'Worked for a U.S. startup developing games and websites;',
-					'pipl_ob_2_5': 'Raised funds through the Kickstarter crowdfunding platform;',
-					'pipl_ob_2_6': 'Created over 15 websites last year.',
+					'pipl_ob_2_1': 'Victor holds the position of Art Director of the company. Responsible for the style and drawing of the project: starting from the logo and ending with UI elements of the platform. He has extensive experience and knowledge in various spheres of web design, animation, game-design, printing, outdoor advertising, 3D modeling, UX and UI development.',
+					'pipl_ob_2_2': 'He has already had successful projects, in spite of his young age. Excellent knowledge of Adobe products and such programs as Spine, Unity3D, Cinema 4D allows him to successfully compete on the market for design services.',
+					'pipl_ob_2_3': 'In his opinion, design plays key role in any work, and the way the product is presented entirely depends on the designer, because a person, first and foremost, looks at from the outside, and only then on what is inside.',
+					'pipl_ob_2_4': '',
+					'pipl_ob_2_5': '',
+					'pipl_ob_2_6': '',
 
 					'pipl_naim3': 'Avetik Kartashian',
 					'pipl_ob_3_1': 'Responsible for the technical background and fine-tuning of the platform. One of the creators and partners of BitCourse. Over 5 years of software development experience. Began his career as a Java developer.',
@@ -349,12 +345,11 @@
 					'pipl_ob_3_5': '',
 					'pipl_ob_3_6': '',
 
-					'pipl_naim4': 'Илья Лужецкий',
-					'pipl_ob_4_1': 'Занялся разработкой веб-проектов еще в школьные годы.',
-					'pipl_ob_4_2': 'Со временем собрал команду разрабочиков и дизайнеров с которыми вместе делали множество проектов.',
-					'pipl_ob_4_3': 'Учавствовал в разработки крупных проектов для таких компаний как ОАО «Фармстандарт», ' +
-					'Неделя моды в Москве, МТС и другие.',
-					'pipl_ob_4_4': 'Любимая фраза "Сейчас мало уметь только программировать"',
+					'pipl_naim4': 'Ilya Luzhetsky',
+					'pipl_ob_4_1': 'Ilya is a front-end developer on our team. He has more than 3 years experience in the sphere of web development.',
+					'pipl_ob_4_2': 'Always looking for non-standard and best possible solutions in his work. Participated in collaboration with such companies as MTS, Fashion Week in Moscow and others. Developed client services for JSC "Pharmstandard", Flei. Monitors new developments. Has experience in developing on Angular, React, Backbone, Node.js. Well versed in cross-browser and cross-platform development, in the principles of SEO-optimization, adaptive and responsive design.',
+					'pipl_ob_4_3': 'Favorite phrase: "Now it is not enough only to be able to program."',
+					'pipl_ob_4_4': '',
 					'pipl_ob_4_5': '',
 					'pipl_ob_4_6': '',
 
@@ -367,8 +362,8 @@
 					'pipl_ob_5_6': '',
 
 					'pipl_naim6': 'Evgeny Kholopov',
-					'pipl_ob_6_1': 'Over 20 years of experience in the legal sphere. 15 years of experience as an investigator for the Russian State Investigation Department of the Kaluga region. Practicing lawyer (registry number 40/608, ID number 649).',
-					'pipl_ob_6_2': 'Provided legal services to over 100 businesses. Successfully defended his clients’ interests in over 200 court cases.',
+					'pipl_ob_6_1': 'Evgeny is a CLO of the BitCourse. He has a long history of registration, reorganization, liquidation, bankruptcies of legal entities and entrepreneurs. General experience in the field of jurisprudence - more than 20 years. Defended the entrepreneurs’ interests in concluding deals with customers and suppliers. During his law practice, he was engaged in legal accompaniment of the firm\'s performance. During the accompaniment, he registered patents, inventions, trademarks for IT companies. Consulted the business on issues of concern in the sphere of rights to the results of intellectual activity. ',
+					'pipl_ob_6_2': 'Believes in BitCourse and hopes that the company will be able to realize its potential and will create a platform convenient for training and counseling. Plans to provide consulting services with the help of a platform. As head of the legal department, he deals with the protection and representation of interests in the legal sphere at the private, state and international levels.',
 					'pipl_ob_6_3': '',
 					'pipl_ob_6_4': '',
 					'pipl_ob_6_5': '',
@@ -382,7 +377,7 @@
 					'pipl_ob_7_5': '',
 					'pipl_ob_7_6': '',
 
-					'road': 'ROADMEP',
+					'road': 'ROADMAP',
 
 					'teacher_zag_1': 'Just imagine',
 					'teacher_zag_2': 'What your teachers and mentors are the best world experts!',
@@ -398,14 +393,14 @@
 			}; $(document).ready(function(){
 			var lang = "en";
 					$('.lang').each(function(index, element) {
-						$(this).text(arrLang[lang][$(this).attr('key')]);﻿
+						$(this).text(arrLang[lang][$(this).attr('key')])
 					});
 					document.images["stat_img_1"].src = 'img/en_img/121.jpg'
 					document.images["stat_img_2"].src = 'img/en_img/122.jpg'
 					document.images["stat_img_3"].src = 'img/en_img/123.jpg'
 					document.images["stat_img_4"].src = 'img/en_img/124.jpg'
 					document.images["stat_img_5"].src = 'img/en_img/125.jpg'
-					document.images["road_img"].src = 'img/en_img/RoadMap.jpg'
+					document.images["road_img"].src = 'img/en_img/roadmap.jpg'
 
 
 					});
@@ -422,14 +417,14 @@
 					document.images["stat_img_3"].src = 'img/ru_img/123.jpg'
 					document.images["stat_img_4"].src = 'img/ru_img/124.jpg'
 					document.images["stat_img_5"].src = 'img/ru_img/125.jpg'
-					document.images["road_img"].src = 'img/ru_img/RoadMap.jpg'
+					document.images["road_img"].src = 'img/ru_img/roadmap.jpg'
 					}else{
 					document.images["stat_img_1"].src = 'img/en_img/121.jpg'
 					document.images["stat_img_2"].src = 'img/en_img/122.jpg'
 					document.images["stat_img_3"].src = 'img/en_img/123.jpg'
 					document.images["stat_img_4"].src = 'img/en_img/124.jpg'
 					document.images["stat_img_5"].src = 'img/en_img/125.jpg'
-					document.images["road_img"].src = 'img/en_img/RoadMap.jpg'
+					document.images["road_img"].src = 'img/en_img/roadmap.jpg'
 					}
 				});
 			});

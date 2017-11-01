@@ -3,6 +3,10 @@
     font-family: CenturyGothic; /* Имя шрифта */
     src: url(fonts/GOTHIC.ttf); /* Путь к файлу со шрифтом */
    }
+  @font-face {
+    font-family: Comfortaa; /* Имя шрифта */
+    src: url(fonts/Comforta.ttf); /* Путь к файлу со шрифтом */
+   }
  @font-face {
     font-family: AA-BebasNeue; /* Имя шрифта */
     src: url(fonts/9080.ttf); /* Путь к файлу со шрифтом */
@@ -268,7 +272,7 @@ display: inline-block;
 
 height: 766px;
 text-align: center;
-  background: url(../img/img_big/Слой.png);
+  background: url(../img/img_big/layer.png);
   background-position: left bottom;
 background-repeat: no-repeat;
     padding-top: 81px;
@@ -278,7 +282,7 @@ background-repeat: no-repeat;
 display: inline-block;
 width: 50%;
  border-left: 1px solid #983e7c;
-   background: url(../img/img_big/Прямоугольник.jpg);
+   background: url(../img/img_big/Rectangle.jpg);
   background-position:  1% 100%;
 background-repeat: no-repeat;
 }
@@ -567,6 +571,9 @@ margin: auto;
     text-align: center;
     margin-bottom: 109px;
 }
+.bloc_5_non{
+	display: none;
+}
 .bloc5_block{
 position: relative;
     z-index: 99;
@@ -829,6 +836,11 @@ body {
   .toggle-button{
      
     display: none;
+}
+
+.header_meny_top img.bittolk_img , .bittolk_img{
+  height: 20px ;
+    margin-bottom: -3px;
 }
 
 @media screen and (min-width:2250px)  {
